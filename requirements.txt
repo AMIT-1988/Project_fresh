@@ -88,3 +88,5 @@ webdriver-manager==4.0.1
 webencodings==0.5.1
 wsproto==1.2.0
 yarg==0.1.9
+mido==1.2.10  # Add the correct version of mido you are using
+
