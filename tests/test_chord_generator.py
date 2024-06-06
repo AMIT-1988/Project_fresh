@@ -182,8 +182,3 @@ def generate_chord_progression():
     chord_progression =['Abm7', 'Dbm7', 'Ebm7', 'Cbmaj7', 'Bdim7', 'Fbmaj7', 'Gb7', 'Abm7']
     
     assert progression_key in chord_progression
-
-
-    
-
-
